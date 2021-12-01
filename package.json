@@ -1,0 +1,24 @@
+{
+  "name": "a02-yangrchen",
+  "version": "1.0.0",
+  "description": "a02 - CSS Frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx browser-sync start -sw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-yangrchen.git"
+  },
+  "author": "Yang Chen",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-yangrchen/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-yangrchen#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
+  }
+}
